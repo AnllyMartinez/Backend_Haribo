@@ -1,0 +1,4 @@
+{
+    "SERVER_PORT": 9000,
+    "CONNECTION_URL": "mongodb+srv://haribo:Haribo2021@cluster0.dkit4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
